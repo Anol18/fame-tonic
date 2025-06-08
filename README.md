@@ -28,4 +28,4 @@ To build and run production build
 
 ## 🔗 Live Link
 
-[[LIve Link]](https://flexi-plan-gamma.vercel.app/)
+[[LIve Link]](https://fame-tonic-ruddy.vercel.app)
